@@ -1,3 +1,8 @@
+﻿Version 1.7.3
+
+* Add postal_town to Geocoding Types array componentTypes.
+* Add method 'reverse': Reverse look up a given latitude/longitude. If no `latitude/longitude` is specified it uses the current value of the input.
+
 Version 1.7
 
 * Merged pull requests
